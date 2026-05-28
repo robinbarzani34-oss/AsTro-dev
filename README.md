@@ -4,11 +4,10 @@
   ![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative&logoColor=white)
   ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 
-  # TempMail CLI
+  # TempMail AsTro
 
   **A command-line temporary email tool powered by Guerrilla Mail API**
 
-  [Website](https://nicram-code.github.io/) • [Profile](https://doxbean.cc/@nicram)
 
 </div>
 
@@ -35,7 +34,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/nicram-code/tempmail-cli.git
+git clone https://github.com/robinbarzani34-oss/AsTro-dev
 cd tempmail-cli
 
 # Run the setup script
@@ -53,7 +52,7 @@ python main.py
 
 ```powershell
 # Clone the repository
-git clone https://github.com/nicram-code/tempmail-cli.git
+git clone https://github.com/robinbarzani34-oss/AsTro-dev
 cd tempmail-cli
 
 # Run the setup script
@@ -104,10 +103,6 @@ python main.py
 
 ## Author
 
-**nicram**
-
-- [Website](https://nicram-code.github.io/)
-- [Profile](https://doxbean.cc/@nicram)
 
 ## License
 
@@ -117,12 +112,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Powered by [Guerrilla Mail API](https://www.guerrillamail.com/)
 - Emails expire after ~1-2 hours
-- CLI template available at [nicram-code/tempmail-cli](https://github.com/nicram-code/tempmail-cli)
+- CLI template available at https://github.com/robinbarzani34-oss/AsTro-dev
 
 ---
 
 <div align="center">
 
-  Made with ❤️ by [nicram](https://doxbean.cc/@nicram)
+  Made with ❤️ by AsTro Dev
 
 </div>
